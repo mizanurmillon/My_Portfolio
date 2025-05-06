@@ -238,7 +238,7 @@ export const SkillsInfo = [
       description:
         "A backend system developed for a mobile alarm application, ensuring reliable and secure management of user data, alarm configurations, and notifications. Built using Laravel and PHP for robust backend logic, with MySQL for efficient data storage. The system provides RESTful APIs to support real-time alarm scheduling, user authentication, and mobile app integration. React.js is used for administrative or web-based interfaces, enabling smooth monitoring and control functionalities.",
       image: webverLogo,
-      tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'React JS'],
+      tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'Flutter'],
       github: "https://github.com/mizanurmillon/theoa_backend.git",
       webapp: "https://theoa.softvencefsd.xyz/",
     },
