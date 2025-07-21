@@ -32,7 +32,7 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/cm.png';
-import csprepLogo from './assets/work_logo/cs_prep.png';
+import csprepLogo from './assets/work_logo/Screenshot_4.png';
 import movierecLogo from './assets/work_logo/web_dig.png';
 import taskremLogo from './assets/work_logo/recipe.png';
 import npmLogo from './assets/work_logo/Screenshot 2025-05-01 213111.png';
