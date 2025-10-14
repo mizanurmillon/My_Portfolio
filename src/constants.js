@@ -197,8 +197,8 @@ export const SkillsInfo = [
       image: csprepLogo,
       tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'React JS'],
       github: "https://github.com/mizanurmillon/Sustainable-Trades",
-      AdminDashboard: "https://sustainable-trades.softvencefsd.xyz/",
-      webapp: "https://sustainable-trades.softvencefsd.xyz/",
+      AdminDashboard: "https://melissabooth123.softvencefsd.xyz",
+      webapp: "https://melissabooth123.softvencefsd.xyz",
     },
     {
       id: 2,
@@ -240,7 +240,7 @@ export const SkillsInfo = [
       image: webverLogo,
       tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'Flutter'],
       github: "https://github.com/mizanurmillon/theoa_backend.git",
-      webapp: "https://theoa.softvencefsd.xyz/",
+      webapp: "https://theoa13.softvencefsd.xyz",
     },
     
   ];  
