@@ -36,7 +36,7 @@ import csprepLogo from './assets/work_logo/Screenshot_4.png';
 import movierecLogo from './assets/work_logo/web_dig.png';
 import taskremLogo from './assets/work_logo/recipe.png';
 import npmLogo from './assets/work_logo/Screenshot 2025-05-01 213111.png';
-import webverLogo from './assets/work_logo/Screenshot 2025-05-01 213430.png';
+import webverLogo from './assets/work_logo/Screenshot 2025-10-19 170644.png';
 
 
 export const SkillsInfo = [
@@ -185,7 +185,7 @@ export const SkillsInfo = [
       description:"A comprehensive Service Provider Management System built with Laravel for the backend and Flutter for the mobile app frontend. This system includes an intuitive admin dashboard for managing users, services, and provider activities, as well as a responsive landing page to promote the app. The backend provides secure APIs to support seamless app functionality and real-time data handling.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'flutter'],
-      github: "https://github.com/mizanurmillon/paddydyna_backend",
+      github: "https://github.com/mizanurmillon/paddydyna_backend.git",
       AdminDashboard: "https://dashboard.nixrly.com/",
       webapp: "https://nixrly.com/",
     },
@@ -229,18 +229,18 @@ export const SkillsInfo = [
         "A health-focused recipe-sharing platform designed to provide nutritious meal ideas and wellness tips for all age groups—from babies to seniors. Built with Laravel and PHP for a secure backend and React.js for a dynamic frontend experience. Users can browse recipes, read expert health tips, and contribute their own dishes. The system supports recipe categorization, user authentication, and API-driven content management, with MySQL ensuring reliable data storage.",
       image: taskremLogo,
       tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'React JS'],
-      github: "https://github.com/mizanurmillon/mohammadhasanii_backend.git",
-      webapp: "https://health-recipes-frontend.netlify.app",
+      github: "https://github.com/mizanurmillon/healthy-care-recipes.git",
+      webapp: "https://healthy-care-recipes.vercel.app/",
     },
     {
       id: 5,
-      title: "Mobile App for Alarm System For Backend",
+      title: "Plant Website",
       description:
-        "A backend system developed for a mobile alarm application, ensuring reliable and secure management of user data, alarm configurations, and notifications. Built using Laravel and PHP for robust backend logic, with MySQL for efficient data storage. The system provides RESTful APIs to support real-time alarm scheduling, user authentication, and mobile app integration. React.js is used for administrative or web-based interfaces, enabling smooth monitoring and control functionalities.",
+        "Plant Website is a modern, responsive web application designed to showcase a variety of plants and gardening products. Built with HTML, CSS, TailwindCSS, and JavaScript, the website features an attractive layout, smooth navigation, and interactive elements to enhance user experience. Visitors can explore different plants, learn about their care, and enjoy a visually appealing, mobile-friendly design.",
       image: webverLogo,
-      tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'Flutter'],
-      github: "https://github.com/mizanurmillon/theoa_backend.git",
-      webapp: "https://theoa13.softvencefsd.xyz",
+      tags: ["HTML", "CSS", "tailwindcss","JavaScript"],
+      github: "https://github.com/mizanurmillon/Plant-website.git",
+      webapp: "https://plantwebs.netlify.app/",
     },
     
   ];  
