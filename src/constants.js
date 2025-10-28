@@ -193,12 +193,12 @@ export const SkillsInfo = [
       id: 1,
       title: "Multi vendor e-commerce website (Laravel backend and React)",
       description:
-        "A scalable multi-vendor e-commerce platform built using Laravel and React JS. This system allows multiple vendors to register, manage their stores, and sell products through a centralized marketplace. It includes features like product management, order tracking, vendor commissions, admin control panel, and a responsive user interface for both customers and sellers. The backend provides secure APIs to support seamless app functionality and real-time data handling.(Admin Login Email:admin@admin.com Password:12345678)",
+        "A scalable multi-vendor e-commerce platform built using Laravel and React JS. This system allows multiple vendors to register, manage their stores, and sell products through a centralized marketplace. It includes features like product management, order tracking, vendor commissions, admin control panel, and a responsive user interface for both customers and sellers. The backend provides secure APIs to support seamless app functionality and real-time data handling.",
       image: csprepLogo,
       tags: ["HTML", "CSS", "JavaScript","PHP","Laravel Framework","API","MySQL",'React JS'],
       github: "https://github.com/mizanurmillon/Sustainable-Trades",
       AdminDashboard: "https://melissabooth123.softvencefsd.xyz",
-      webapp: "https://melissabooth123.softvencefsd.xyz",
+      webapp: "https://sustainable-trades.vercel.app/",
     },
     {
       id: 2,
