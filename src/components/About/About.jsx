@@ -26,7 +26,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a passionate Laravel backend developer with 1 year of
+            I am a passionate Laravel backend developer with 1.5 year of
             experience in designing, developing, and optimizing web
             applications. Proficient in PHP, Laravel Framework, MySQL, RESTful APIs, and modern
             backend architectures. Skilled in database management, performance
